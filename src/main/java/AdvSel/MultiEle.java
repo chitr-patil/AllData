@@ -36,7 +36,7 @@ public class MultiEle {
 			}                                        // link which are present beside a gmail that is images so is not present on next page so it will gives us the error
 		}                                            // that would be StaleElement Exception-means that perticular element is not present on current page.
 	
-	
+	// its my first pull.
 	driver.close();
 	}
 		}
